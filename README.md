@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shoxruhbek-Baxtiyorov&theme=tokyo-night&hide_border=true&radius=16" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shoxruh-Baxtiyorov&theme=tokyo-night&hide_border=true&radius=16" width="90%" />
 </p>
 
 <p align="center">
