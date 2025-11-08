@@ -1,7 +1,7 @@
 <!-- ✨ GitHub Profile README — Shoxruhbek Baxtiyorov -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3200&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=👋+Hi!+I'm+Shoxruh+Baxtiyorov;🚀+Backend+Developer+from+Uzbekistan;🐍+Python+Django+%7C+FastAPI+%7C+DRF;💡+Turning+Ideas+into+Reality;✍️+Writer+%26+Calm+Thinker" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3200&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=👋+Hi!+I'm+Shoxruh+Baxtiyorov;+Backend+Developer+from+Uzbekistan;🐍+Python+Django+%7C+FastAPI+%7C+DRF;💡+Turning+Ideas+into+Reality;✍️+Writer+%26+Calm+Thinker" alt="Typing SVG">
 </p>
 
 <h1 align="center">⚡ Backend Developer | Writer | Dream Builder ⚡</h1>
