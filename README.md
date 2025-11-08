@@ -24,7 +24,7 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,docker,git,linux,vscode,postman,redis,celery,nginx&perline=6&theme=dark" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,docker,git,linux,vscode,postman,redis,celery,nginx&perline=6" alt="Tech Stack Icons"/>
 </p>
 
 ---
@@ -50,18 +50,18 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shoxruh-Baxtiyorov&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Shoxruh-Baxtiyorov&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shoxruhbek-Baxtiyorov&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=Shoxruhbek-Baxtiyorov&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/Shoxruh-Baxtiyorov?style=for-the-badge&label=Commit%20Activity" alt="commits" />
-  <img src="https://img.shields.io/github/followers/Shoxruh-Baxtiyorov?style=for-the-badge&label=Followers" alt="followers" />
-  <img src="https://komarev.com/ghpvc/?username=Shoxruh-Baxtiyorov&label=Profile%20Views&style=for-the-badge&color=00FFFF" alt="profile views" />
+  <img src="https://img.shields.io/github/commit-activity/y/Shoxruhbek-Baxtiyorov?style=for-the-badge&label=Commit%20Activity" alt="Commit Activity"/>
+  <img src="https://img.shields.io/github/followers/Shoxruhbek-Baxtiyorov?style=for-the-badge&label=Followers" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Shoxruhbek-Baxtiyorov&label=Profile%20Views&style=for-the-badge&color=00FFFF" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="90%" alt="contribution snake"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake"/>
 </p>
 
 > ⚠️ If any widget is temporarily down on GitHub, the badges above provide stable fallback information.
@@ -107,9 +107,9 @@
 ### 🌐 Contact
 
 <p align="center">
-  <a href="https://t.me/Shoxruh_Baxtiyorov"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a>
-  <a href="mailto:baxtiyorovshoxruhbek@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/shohruh-baxtiyorov-4376ba383/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="https://t.me/Shoxruh_Baxtiyorov"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="mailto:baxtiyorovshoxruhbek@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/shohruh-baxtiyorov-4376ba383/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
