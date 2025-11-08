@@ -1,10 +1,10 @@
 <!-- ✨ GitHub Profile README — Shoxruhbek Baxtiyorov -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3200&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=👋+Hi!+I'm+Shoxruh+Baxtiyorov;🚀+Backend+Developer+from+Uzbekistan;🐍+Python+Django+%7C+FastAPI+%7C+DRF;💡+Turning+Ideas+into+Reality;✍️+Writer+%26+Calm+Thinker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3200&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=👋+Hi!+I'm+Shoxruh+Baxtiyorov;🚀+Backend+Developer+from+Uzbekistan;🐍+Python+Django+%7C+FastAPI+%7C+DRF;💡+Turning+Ideas+into+Reality" alt="Typing SVG" />
 </p>
 
-<h1 align="center">⚡ Backend Developer | Writer | Dream Builder ⚡</h1>
+<h1 align="center">⚡ Backend Developer | Dream Builder ⚡</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="85%" alt="animated line"/>
@@ -24,7 +24,7 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,docker,git,linux,vscode,postman,redis,celery,nginx&perline=6" alt="Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,docker,git,linux,vscode,postman,redis,nginx&perline=6" alt="Tech Stack Icons"/>
 </p>
 
 ---
