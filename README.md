@@ -35,11 +35,6 @@
 
 ### 🚀 Currently Working On
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding" />
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="developer at work" />
-</p>
-
 - **BookBarber Bot** — Telegram bot for purchasing eBooks using in-game coins.  
 - **Django News Platform** — category-based news site with Bootstrap tabs and pagination.  
 - **JobFinder** — job search app with company and applicant dashboards.  
