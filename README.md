@@ -16,25 +16,45 @@
 
 > ✨ Brave, calm, and inspired.  
 > I love system architecture, clean code, and simple yet powerful solutions.  
-> 🖋️ In my free time, I write books — leaving traces not only in code but also in words.
+> 🖋️ In my free time, I write books — leaving traces not only in code but also in words.  
+> 🌍 Based in Uzbekistan, building backend systems that empower digital products.
 
 ---
 
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,docker,git,linux,vscode,postman,redis&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,docker,git,linux,vscode,postman,redis,celery,nginx&perline=6&theme=dark" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.demolab.com/?username=Shoxruhbek-Baxtiyorov&theme=radical&no-bg=true&no-frame=true&margin-w=15" />
 </p>
+
+---
+
+### 🚀 Currently Working On
+
+- 🧩 **BookBarber Bot** — Telegram bot for buying eBooks with in-game coins.  
+- 📰 **Django News Platform** — category-based, trending news website with pagination and Bootstrap tabs.  
+- 💼 **JobFinder** — job search web app with company and applicant dashboards.  
+- 🧠 **MyDay** — lifestyle planner website with a professional, light-blue aesthetic.
+
+---
+
+### 🌱 Currently Learning
+
+- ⚡ Advanced **FastAPI** optimization and async architecture  
+- 🧰 **Celery + Redis** task scheduling  
+- ☁️ **Docker Compose**, **NGINX**, **CI/CD**  
+- 🧠 System design patterns & microservices
+
 ---
 
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-shoxruhbek.vercel.app/api?username=Shoxruhbek-Baxtiyorov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shoxruhbek-Baxtiyorov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=Shoxruhbek-Baxtiyorov&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
@@ -42,15 +62,17 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shoxruhbek-Baxtiyorov&theme=tokyo-night&hide_border=true&radius=16" alt="GitHub Activity Graph"/>
 </p>
 
-
 ---
 
-### 🌐 Contact Me
+### 🏆 GitHub Achievements & Badges
 
 <p align="center">
-  <a href="https://t.me/Shoxruh_Baxtiyorov"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:baxtiyorovshoxruhbek@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shohruh-baxtiyorov-4376ba383/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shoxruhbek-Baxtiyorov&theme=tokyonight" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shoxruhbek-Baxtiyorov&label=Profile+Views&color=00FFFF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Shoxruhbek-Baxtiyorov?logo=github&style=for-the-badge&color=00FFFF" alt="Followers"/>
 </p>
 
 ---
@@ -66,13 +88,14 @@
 | 🛒 **E-commerce API** | RESTful API for an online store with JWT authentication and PostgreSQL. | Django REST Framework |
 | 🏫 **School Management** | Admin dashboard for managing students, teachers, and classes. | Django, HTML, JS |
 | 🧩 **CodeContest** | Platform for solving and creating coding challenges. | FastAPI, PostgreSQL |
+| 🤖 **BookBarber Bot** | Telegram bot for buying eBooks using in-game coins. | Python, Aiogram, PostgreSQL |
 | ✍️ **Personal Blog** | Sharing my thoughts and experiences in tech and life. | Django, Markdown |
 
 ---
 
-### 🪄 A Bit of Philosophy
+### 💬 Quote to Remember
 
-> 💬 “Code is an art where logic meets imagination.  
+> 💡 “Code is an art where logic meets imagination.  
 > Every project is a story written in the language of Python.”  
 >
 > 🌙 *Still writing — in code and in life.*
