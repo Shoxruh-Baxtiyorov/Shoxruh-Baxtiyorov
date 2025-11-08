@@ -50,27 +50,39 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
+  <!-- Main GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Shoxruh-Baxtiyorov&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
+  
+  <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=Shoxruh-Baxtiyorov&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <p align="center">
-  <!-- GitHub general stats card -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Shoxruh-Baxtiyorov&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
+  <!-- Top Languages Chart -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoxruh-Baxtiyorov&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
   
-    <!-- Top languages chart (compact) -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoxruh-Baxtiyorov&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
-  </p>
+  <!-- Activity Graph (Commits, PRs, Issues, etc.) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shoxruh-Baxtiyorov&theme=tokyonight" width="48%" alt="Productive Time"/>
+</p>
+
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shoxruh-Baxtiyorov&theme=tokyonight" width="90%" alt="Profile Details"/>
+</p>
+
+<p align="center">
+  <!-- Badges -->
   <img src="https://img.shields.io/github/followers/Shoxruh-Baxtiyorov?style=for-the-badge&label=Followers" alt="Followers"/>
   <img src="https://komarev.com/ghpvc/?username=Shoxruh-Baxtiyorov&label=Profile%20Views&style=for-the-badge&color=00FFFF" alt="Profile Views"/>
 </p>
 
 <p align="center">
+  <!-- Contribution Snake Animation -->
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake"/>
 </p>
 
-> ⚠️ If any widget is temporarily down on GitHub, the badges above provide stable fallback information.
+> ⚡ If any widget is temporarily down on GitHub, the badges above provide stable fallback information.
+
 
 
 ---
