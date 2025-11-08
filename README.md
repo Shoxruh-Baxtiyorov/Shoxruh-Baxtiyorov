@@ -1,13 +1,13 @@
 <!-- ✨ GitHub Profile README — Shoxruhbek Baxtiyorov -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3200&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=👋+Hi!+I'm+Shoxruh+Baxtiyorov;+Backend+Developer+from+Uzbekistan;🐍+Python+Django+%7C+FastAPI+%7C+DRF;💡+Turning+Ideas+into+Reality;✍️+Writer+%26+Calm+Thinker" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3200&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=👋+Hi!+I'm+Shoxruh+Baxtiyorov;🚀+Backend+Developer+from+Uzbekistan;🐍+Python+Django+%7C+FastAPI+%7C+DRF;💡+Turning+Ideas+into+Reality;✍️+Writer+%26+Calm+Thinker" alt="Typing SVG" />
 </p>
 
 <h1 align="center">⚡ Backend Developer | Writer | Dream Builder ⚡</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-animates/master/resources/animated-line.svg" width="85%" alt="animated line"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="85%" alt="animated line"/>
 </p>
 
 ---
@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.demolab.com/?username=Shoxruhbek-Baxtiyorov&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shoxruhbek-Baxtiyorov&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="trophies" />
 </p>
 
 ---
@@ -36,8 +36,8 @@
 ### 🚀 Currently Working On
 
 <p align="center">
-  <img src="https://c.tenor.com/6Xg8p3yAq8AAAAAC/coding-developer.gif" width="220" alt="coding gif" />
-  <img src="https://c.tenor.com/EvM0m3oQ0X4AAAAC/working-late-coding.gif" width="220" alt="working gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="developer at work" />
 </p>
 
 - **BookBarber Bot** — Telegram bot for purchasing eBooks using in-game coins.  
@@ -50,8 +50,8 @@
 ### 🌱 Learning & Growth
 
 <p align="center">
-  <img src="https://c.tenor.com/1r8kE0V4BhQAAAAC/learn-study.gif" width="220" alt="learning gif"/>
-  <img src="https://c.tenor.com/8qQfQ2x_2C4AAAAC/reading-coding.gif" width="220" alt="reading gif"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220" alt="learning" />
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="220" alt="reading" />
 </p>
 
 - Advanced asynchronous patterns in **FastAPI**  
@@ -105,8 +105,8 @@
 | ✍️ **Personal Blog** | Technical and personal blog. | Django, Markdown |
 
 <p align="center">
-  <img src="https://c.tenor.com/6v2w8g4w5x8AAAAC/rocket-launch.gif" width="160" alt="rocket" />
-  <img src="https://c.tenor.com/A6a8dZxgq_sAAAAC/preview-coding.gif" width="160" alt="project demo" />
+  <img src="https://media.giphy.com/media/3o7TKUMb8Qd1H1G1eQ/giphy.gif" width="160" alt="rocket" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="160" alt="project demo" />
 </p>
 
 ---
@@ -118,7 +118,7 @@
 > — *Shoxruh Baxtiyorov*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-animates/master/resources/animated-line.svg" width="60%" alt="animated underline"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" alt="animated underline"/>
 </p>
 
 ---
@@ -134,5 +134,3 @@
 ---
 
 ⭐ If you like this profile, give it a star and follow for updates!
-
-<!-- extra spacing for contribution graph alignment -->
