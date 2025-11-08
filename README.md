@@ -24,7 +24,7 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,docker,git,linux,vscode,postman,redis,nginx&perline=6" alt="Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,docker,git,linux,vscode,postman&perline=6" alt="Tech Stack Icons"/>
 </p>
 
 ---
@@ -65,6 +65,7 @@
 </p>
 
 > ⚠️ If any widget is temporarily down on GitHub, the badges above provide stable fallback information.
+
 
 ---
 
