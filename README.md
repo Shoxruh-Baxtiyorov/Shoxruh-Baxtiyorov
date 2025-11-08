@@ -76,14 +76,7 @@
   <img src="https://komarev.com/ghpvc/?username=Shoxruh-Baxtiyorov&label=Profile%20Views&style=for-the-badge&color=00FFFF" alt="Profile Views"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shoxruh-Baxtiyorov/Shoxruh-Baxtiyorov/output/github-snake.svg" width="90%" alt="Contribution Snake"/>
-</p>
-
-
 > ⚡ If any widget is temporarily down on GitHub, the badges above provide stable fallback information.
-
-
 
 ---
 
