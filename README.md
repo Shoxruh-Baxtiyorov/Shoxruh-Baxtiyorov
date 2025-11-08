@@ -24,11 +24,8 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,drf,postgresql,docker,git,linux,vscode,postman,redis,celery,nginx&perline=6&theme=dark" alt="skills" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.demolab.com/?username=Shoxruhbek-Baxtiyorov&theme=radical" alt="trophies" />
+  <!-- use supported icons ids: fastapi, django, py, postgres, docker, git, linux, vscode, postman, redis, celery, nginx -->
+  <img src="https://skillicons.dev/icons?i=py,django,fastapi,postgres,docker,git,linux,vscode,postman,redis,celery,nginx&perline=6&theme=dark" alt="skills" />
 </p>
 
 ---
@@ -51,19 +48,21 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Statistics (stable)
 
 <p align="center">
+  <!-- main stats (if unavailable, these images fallback to shields below) -->
   <img src="https://github-readme-stats.vercel.app/api?username=Shoxruhbek-Baxtiyorov&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Shoxruhbek-Baxtiyorov&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <!-- streak / alternate badge — shields fallback is more reliable -->
+  <img src="https://img.shields.io/badge/🔥-Streak-via-shields?style=for-the-badge&color=00AEEF" width="48%" alt="streak fallback" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shoxruhbek-Baxtiyorov&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <!-- simple and reliable badges as a fallback -->
+  <img src="https://img.shields.io/github/commit-activity/m/Shoxruhbek-Baxtiyorov?style=for-the-badge&label=Commit%20Activity" alt="commits" />
+  <img src="https://img.shields.io/github/followers/Shoxruhbek-Baxtiyorov?style=for-the-badge&label=Followers" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Shoxruhbek-Baxtiyorov&label=Profile%20views&style=for-the-badge&color=00FFFF" alt="profile views" />
 </p>
-
-> ⚠️ If any of these images don't render on GitHub: try opening them in a browser. If a widget is temporarily down, you can remove or replace its URL with an alternative host.
-
 ---
 
 ### 🏅 Mentor / Teacher
