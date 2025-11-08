@@ -77,9 +77,9 @@
 </p>
 
 <p align="center">
-  <!-- Contribution Snake Animation -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/Shoxruh-Baxtiyorov/Shoxruh-Baxtiyorov/output/github-snake.svg" width="90%" alt="Contribution Snake"/>
 </p>
+
 
 > ⚡ If any widget is temporarily down on GitHub, the badges above provide stable fallback information.
 
