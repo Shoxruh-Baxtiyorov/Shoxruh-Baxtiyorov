@@ -50,8 +50,8 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shoxruhbek-Baxtiyorov&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Shoxruhbek-Baxtiyorov&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shoxruh-Baxtiyorov&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Shoxruh-Baxtiyorov&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats" />
 </p>
 
 <p align="center">
