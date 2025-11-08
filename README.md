@@ -26,11 +26,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,docker,git,linux,vscode,postman,redis,celery,nginx&perline=6&theme=dark" alt="skills" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shoxruhbek-Baxtiyorov&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="trophies" />
-</p>
-
 ---
 
 ### 🚀 Currently Working On
@@ -43,11 +38,6 @@
 ---
 
 ### 🌱 Learning & Growth
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220" alt="learning" />
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="220" alt="reading" />
-</p>
 
 - Advanced asynchronous patterns in **FastAPI**  
 - Background tasks and scheduling with **Celery + Redis**  
@@ -98,11 +88,6 @@
 | 🧩 **CodeContest** | Coding challenges and auto-evaluation. | FastAPI, PostgreSQL |
 | 🤖 **BookBarber Bot** | Telegram bot for purchasing eBooks using in-game coins. | Python, Aiogram |
 | ✍️ **Personal Blog** | Technical and personal blog. | Django, Markdown |
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKUMb8Qd1H1G1eQ/giphy.gif" width="160" alt="rocket" />
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="160" alt="project demo" />
-</p>
 
 ---
 
