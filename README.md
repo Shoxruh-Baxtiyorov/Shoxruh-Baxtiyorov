@@ -7,7 +7,7 @@
 <h1 align="center">⚡ Backend Developer | Writer | Dream Builder ⚡</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="85%" />
+  <img src="https://github.com/ashutosh00710/github-readme-animates/blob/master/resources/animated-line.svg" width="85%" />
 </p>
 
 ---
@@ -24,13 +24,20 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <!-- use supported icons ids: fastapi, django, py, postgres, docker, git, linux, vscode, postman, redis, celery, nginx -->
   <img src="https://skillicons.dev/icons?i=py,django,fastapi,postgres,docker,git,linux,vscode,postman,redis,celery,nginx&perline=6&theme=dark" alt="skills" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.demolab.com/?username=Shoxruhbek-Baxtiyorov&theme=radical" alt="trophies" />
 </p>
 
 ---
 
 ### 🚀 Currently Working On
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="40" />
+</p>
 
 - **BookBarber Bot** — Telegram bot to purchase eBooks using in-game coins.  
 - **Django News Platform** — category-based news site with Bootstrap tabs and pagination.  
@@ -40,6 +47,10 @@
 ---
 
 ### 🌱 Learning & Growth
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l41lVt0tEvn7GrReI/giphy.gif" width="40" />
+</p>
 
 - Advanced asynchronous patterns in **FastAPI**.  
 - Background tasks and scheduling with **Celery + Redis**.  
@@ -51,23 +62,23 @@
 ### 📊 GitHub Statistics (stable)
 
 <p align="center">
-  <!-- main stats (if unavailable, these images fallback to shields below) -->
   <img src="https://github-readme-stats.vercel.app/api?username=Shoxruhbek-Baxtiyorov&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <!-- streak / alternate badge — shields fallback is more reliable -->
   <img src="https://img.shields.io/badge/🔥-Streak-via-shields?style=for-the-badge&color=00AEEF" width="48%" alt="streak fallback" />
 </p>
 
 <p align="center">
-  <!-- simple and reliable badges as a fallback -->
   <img src="https://img.shields.io/github/commit-activity/m/Shoxruhbek-Baxtiyorov?style=for-the-badge&label=Commit%20Activity" alt="commits" />
   <img src="https://img.shields.io/github/followers/Shoxruhbek-Baxtiyorov?style=for-the-badge&label=Followers" alt="followers" />
   <img src="https://komarev.com/ghpvc/?username=Shoxruhbek-Baxtiyorov&label=Profile%20views&style=for-the-badge&color=00FFFF" alt="profile views" />
 </p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
 ---
 
 ### 🏅 Mentor / Teacher
-
-I’m grateful to my mentor and teacher:
 
 <p align="center">
   <a href="https://github.com/Bekmuhammad-Mamadiyev" target="_blank">
@@ -75,8 +86,7 @@ I’m grateful to my mentor and teacher:
   </a>
 </p>
 
-> **Special thanks to Bekmuhammad Mamadiyev** — one of the best teachers and a strong influence on my development path.  
-> Check his GitHub: https://github.com/Bekmuhammad-Mamadiyev
+> **Special thanks to Bekmuhammad Mamadiyev** — one of the best teachers and a strong influence on my development path.
 
 ---
 
@@ -89,6 +99,10 @@ I’m grateful to my mentor and teacher:
 | 🧩 **CodeContest** | Platform for coding challenges and evaluation. | FastAPI, PostgreSQL |
 | 🤖 **BookBarber Bot** | Telegram bot for buying eBooks using in-game coins. | Python, Aiogram |
 | ✍️ **Personal Blog** | Technical and personal posts. | Django, Markdown |
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohhwn9qSgVbSAgN6c/giphy.gif" width="60" />
+</p>
 
 ---
 
