@@ -55,7 +55,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/Shoxruh-Baxtiyorov?style=for-the-badge&label=Commit%20Activity" alt="Commit Activity"/>
+  <p align="center">
+  <!-- GitHub general stats card -->
+    <img src="https://github-readme-stats.vercel.app/api?username=Shoxruh-Baxtiyorov&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
+  
+    <!-- Top languages chart (compact) -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoxruh-Baxtiyorov&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
+  </p>
   <img src="https://img.shields.io/github/followers/Shoxruh-Baxtiyorov?style=for-the-badge&label=Followers" alt="Followers"/>
   <img src="https://komarev.com/ghpvc/?username=Shoxruh-Baxtiyorov&label=Profile%20Views&style=for-the-badge&color=00FFFF" alt="Profile Views"/>
 </p>
