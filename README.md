@@ -24,8 +24,9 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,docker,git,linux,vscode,postman,redis,celery,nginx&perline=6&theme=dark" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,docker,git,linux,vscode,postman,redis,celery,nginx&perline=6&theme=dark" alt="skills"/>
 </p>
+
 ---
 
 ### 🚀 Currently Working On
@@ -54,9 +55,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/Shoxruhbek-Baxtiyorov?style=for-the-badge&label=Commit%20Activity" alt="commits" />
-  <img src="https://img.shields.io/github/followers/Shoxruhbek-Baxtiyorov?style=for-the-badge&label=Followers" alt="followers" />
-  <img src="https://komarev.com/ghpvc/?username=Shoxruhbek-Baxtiyorov&label=Profile%20Views&style=for-the-badge&color=00FFFF" alt="profile views" />
+  <img src="https://img.shields.io/github/commit-activity/m/Shoxruh-Baxtiyorov?style=for-the-badge&label=Commit%20Activity" alt="commits" />
+  <img src="https://img.shields.io/github/followers/Shoxruh-Baxtiyorov?style=for-the-badge&label=Followers" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Shoxruh-Baxtiyorov&label=Profile%20Views&style=for-the-badge&color=00FFFF" alt="profile views" />
 </p>
 
 <p align="center">
