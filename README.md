@@ -48,17 +48,7 @@
 ---
 
 ### 📊 GitHub Statistics
-
 <p align="center">
-  <!-- Main GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Shoxruh-Baxtiyorov&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
-  
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=Shoxruh-Baxtiyorov&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <!-- Top Languages Chart -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoxruh-Baxtiyorov&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
   
   <!-- Activity Graph (Commits, PRs, Issues, etc.) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shoxruh-Baxtiyorov&theme=tokyonight" width="48%" alt="Productive Time"/>
