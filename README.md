@@ -49,7 +49,7 @@
 
 ### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://stats.hyochan.dev/api?username=Shoxruh-Baxtiyorov&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shoxruh-Baxtiyorov&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
