@@ -49,11 +49,11 @@
 
 ### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shoxruh-Baxtiyorov&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shoxruh-Baxtiyorov&show_icons=true&theme=tokyonight&v=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shoxruh-Baxtiyorov&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shoxruh-Baxtiyorov&theme=tokyonight&v=1" />
 </p>
 
 <p align="center">
