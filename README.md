@@ -1,50 +1,49 @@
 <!-- ✨ GitHub Profile README — Shoxruhbek Baxtiyorov -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3200&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=👋+Hi!+I'm+Shoxruh+Baxtiyorov;🚀+Backend+Developer+from+Uzbekistan;🐍+Python+Django+%7C+FastAPI+%7C+DRF;💡+Turning+Ideas+into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3200&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=👋+Hi!+I'm+Shoxruh+Baxtiyorov;🚀+Backend+Developer+from+Uzbekistan;🐍+Python+Django+%7C+FastAPI+%7C+DRF;💡+Building+Practical+Projects" alt="Typing SVG" />
 </p>
 
-<h1 align="center">⚡ Backend Developer | Dream Builder ⚡</h1>
+<h1 align="center">⚡ Backend Developer | Python & Django ⚡</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="85%" alt="animated line"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="85%" alt="line"/>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-> ✨ Brave, calm, and inspired.  
-> I build scalable backend systems with clean code and practical architecture.  
-> 🖋️ In free time, I write books and experiment with ideas — leaving marks in code and words.  
-> 🌍 Based in Uzbekistan.
+> I build backend systems with clean, maintainable code.  
+> Experienced in Django, FastAPI, and building APIs for web & Telegram bots.  
+> Exploring **Machine Learning & Deep Learning** to add smart features to projects.  
+> Based in Uzbekistan.  
 
 ---
 
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,drf,postgresql,docker,redis,celery,git,linux,vscode,postman&perline=6" alt="Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,drf,postgresql,docker,redis,git,linux,vscode,postman,pytorch,scikit-learn,tensorflow&perline=6" alt="Tech Stack Icons"/>
 </p>
 
 ---
 
 ### 🚀 Current Projects
 
-- **BookBarber Bot** — Telegram bot for buying eBooks using in-game coins.  
-- **Django News Platform** — Category-based news portal with tabs, trending news, and pagination.  
-- **JobFinder** — Job search app with company and applicant dashboards.  
-- **MyDay** — Personal planner web app with light-blue, clean UI.  
-- **E-commerce API** — REST API for online store with JWT authentication and PostgreSQL.  
-- **CodeContest** — Platform for coding challenges with automatic evaluation.  
+- **BookBarber Bot** — Telegram bot for buying eBooks with in-game coins.  
+- **Django News Platform** — News website with categories, tabs, trending section, and pagination.  
+- **JobFinder** — Job search app with dashboards for companies and applicants.  
+- **MyDay** — Personal planner web app with clean light-blue UI.  
 
 ---
 
 ### 🌱 Learning & Growth
 
-- Advanced async patterns in **FastAPI**  
+- Advanced **FastAPI** async patterns  
 - Background tasks & scheduling with **Celery + Redis**  
-- Dockerized deployments, **NGINX**, and CI/CD pipelines  
+- Dockerized deployments and CI/CD pipelines  
+- **Machine Learning & Deep Learning**: PyTorch, TensorFlow, scikit-learn  
 - System design & microservices architecture  
 
 ---
@@ -56,40 +55,15 @@
 
 ---
 
-### 🏅 Mentor / Teacher
-
-<p align="center">
-  <a href="https://github.com/Bekmuhammad-Mamadiyev" target="_blank">
-    <img src="https://img.shields.io/badge/⭐️%20Mentor-Bekmuhammad%20Mamadiyev-0A66C2?style=for-the-badge&logo=github" alt="Mentor Badge"/>
-  </a>
-</p>
-
-> 💙 Special thanks to [Bekmuhammad Mamadiyev](https://github.com/Bekmuhammad-Mamadiyev) — an amazing mentor who inspired my journey.
-
----
-
-### ✨ Projects Showcase
+### ✨ Selected Projects
 
 | Project | Description | Tech |
 |:--|:--|:--|
-| 🛒 **E-commerce API** | REST API for an online store with JWT auth & PostgreSQL | Django REST Framework, PostgreSQL |
+| 🛒 **E-commerce API** | REST API for online store with JWT auth and PostgreSQL | Django REST Framework, PostgreSQL |
+| 🧩 **CodeContest** | Platform for coding challenges with auto-evaluation | FastAPI, PostgreSQL |
+| 🤖 **BookBarber Bot** | Telegram bot for buying eBooks using in-game coins | Python, Aiogram |
+| 📅 **MyDay** | Personal planner web app | Django, Bootstrap |
 | 🏫 **School Management** | Dashboard for teachers and students | Django, JavaScript |
-| 🧩 **CodeContest** | Coding challenges with auto-evaluation | FastAPI, PostgreSQL |
-| 🤖 **BookBarber Bot** | Telegram bot for eBooks with in-game coins | Python, Aiogram |
-| ✍️ **Personal Blog** | Technical & personal blog | Django, Markdown |
-| 📅 **MyDay** | Personal planner with clean UI | Django, Bootstrap |
-
----
-
-### 💬 Quote
-
-> “Code is an art where logic meets imagination.  
-> Every project is a story written in the language of Python.”  
-> — *Shoxruh Baxtiyorov*
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" alt="animated underline"/>
-</p>
 
 ---
 
