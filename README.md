@@ -49,21 +49,15 @@
 
 ### 📊 GitHub Statistics
 <p align="center">
-  
-  <!-- Activity Graph (Commits, PRs, Issues, etc.) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shoxruh-Baxtiyorov&theme=tokyonight" width="48%" alt="Productive Time"/>
-</p>
-
-
-<p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shoxruh-Baxtiyorov&theme=tokyonight" width="90%" alt="Profile Details"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shoxruh-Baxtiyorov&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <!-- Badges -->
-  <img src="https://img.shields.io/github/followers/Shoxruh-Baxtiyorov?style=for-the-badge&label=Followers" alt="Followers"/>
-  <img src="https://komarev.com/ghpvc/?username=Shoxruh-Baxtiyorov&label=Profile%20Views&style=for-the-badge&color=00FFFF" alt="Profile Views"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shoxruh-Baxtiyorov&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shoxruh-Baxtiyorov&theme=tokyo-night" />
 </p>
 
 > ⚡ If any widget is temporarily down on GitHub, the badges above provide stable fallback information.
