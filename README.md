@@ -24,7 +24,7 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,drf,postgresql,docker,redis,git,linux,vscode,postman,pytorch,scikit-learn,tensorflow&perline=6" alt="Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,docker,redis,git,linux,vscode,postman,pytorch,tensorflow&perline=6" alt="Tech Stack Icons"/>
 </p>
 
 ---
